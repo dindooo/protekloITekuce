@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\PiTvrijeme\bin\Debug\PiTvrijeme.exe.config
+C:\Users\ucenik\source\repos\PiTvrijeme\bin\Debug\PiTvrijeme.exe
+C:\Users\ucenik\source\repos\PiTvrijeme\bin\Debug\PiTvrijeme.pdb
+C:\Users\ucenik\source\repos\PiTvrijeme\obj\Debug\PiTvrijeme.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\PiTvrijeme\obj\Debug\PiTvrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\PiTvrijeme\obj\Debug\PiTvrijeme.Form1.resources
+C:\Users\ucenik\source\repos\PiTvrijeme\obj\Debug\PiTvrijeme.Properties.Resources.resources
+C:\Users\ucenik\source\repos\PiTvrijeme\obj\Debug\PiTvrijeme.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\PiTvrijeme\obj\Debug\PiTvrijeme.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\PiTvrijeme\obj\Debug\PiTvrijeme.exe
+C:\Users\ucenik\source\repos\PiTvrijeme\obj\Debug\PiTvrijeme.pdb
